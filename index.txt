@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="es">
+
+</html>
+<html>
+
+<head>
+    <title>Leslie Chow restaurant</title>
+    <link href="css/style.css" rel="stylesheet" />
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet" />
+    <link rel="stylesheet" href="css/style.css" />
+</head>
+
+<body>
+    <header>
+        <h1>Bienvenido a la página del restaurante Leslie Chow!!!</h1>
+    </header>
+
+    <main>
+        <!-- columna 1 -->
+        <div class="intro">
+            <h2>Qué desea ordenar?</h2>
+            <p>
+                Seleccione detalladamente cada platillo que desee
+            </p>
+        </div>
+
+        <div class="contactos">
+            <div class="columnas">
+                <!-- columna 1 -->
+                <div class="column">
+                    <h3>TIENDA FISICA</h3>
+                    <p>
+                        Calle 66#50-50 junto a Algarabía.
+                    </p>
+                </div>
+
+                <!-- columna 2 -->
+                <div class="column">
+                    <h3>Teléfono</h3>
+                    <p>
+                        WP: 3132748881.
+                    </p>
+                    <p>Llamadas: 3058155963</p>
+                </div>
+
+                <!-- columna 3 -->
+                <div class="column">
+                    <h3>Correo electrónico</h3>
+                    <p>
+                        cesar.rosales.iriarte@gmail.com
+                    </p>
+                </div>
+            </div>
+            <!-- / columnas -->
+        </div>
+    </main>
+</body>
+
+</html>
